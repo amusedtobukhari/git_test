@@ -1,1 +1,2 @@
 i didn't know nano text editor existed
+"checking git commit comm from vs code"
